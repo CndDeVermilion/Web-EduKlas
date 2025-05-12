@@ -1,0 +1,88 @@
+Sesi: Array
+(
+    [id_guru] => 1
+    [username] => yudd
+    [nama] => Yudi
+    [role] => admin
+    [user_id] => 
+)
+
+ID dari GET: 1
+Data ditemukan: Array
+(
+    [id_siswa] => 1
+    [nama] => Rama
+    [username] => rama
+)
+
+Sesi: Array
+(
+    [id_guru] => 1
+    [username] => yudd
+    [nama] => Yudi
+    [role] => admin
+    [user_id] => 
+)
+
+ID dari GET: 1
+Data ditemukan: Array
+(
+    [id_siswa] => 1
+    [nama] => Rama
+    [username] => rama
+)
+
+Sesi: Array
+(
+    [id_guru] => 1
+    [username] => yudd
+    [nama] => Yudi
+    [role] => admin
+    [user_id] => 
+    [error] => ID siswa tidak ditemukan!
+)
+
+ID dari GET: 1
+Data ditemukan: Array
+(
+    [id_siswa] => 1
+    [nama] => Rama
+    [username] => rama
+)
+
+Sesi: Array
+(
+    [id_guru] => 1
+    [username] => yudd
+    [nama] => Yudi
+    [role] => admin
+    [user_id] => 
+    [success] => Data siswa berhasil diperbarui!
+)
+
+ID dari GET: 1
+Data ditemukan: Array
+(
+    [id_siswa] => 1
+    [nama] => Rasmaa
+    [username] => rama
+)
+
+Sesi: Array
+(
+    [id_guru] => 1
+    [username] => yudd
+    [nama] => Yudi
+    [role] => admin
+    [user_id] => 
+    [success] => Data siswa berhasil diperbarui!
+)
+
+ID dari GET: 1
+Data ditemukan: Array
+(
+    [id_siswa] => 1
+    [nama] => Rama
+    [username] => rama
+)
+
